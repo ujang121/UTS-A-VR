@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pinguin" size="50.000000 54.062500" />
+    <ImageTarget name="gurita" size="50.000000 33.333332" />
+  </Tracking>
+</QCARConfig>
